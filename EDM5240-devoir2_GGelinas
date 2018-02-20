@@ -53,4 +53,4 @@ for row in reader:
         nettoyage=' '.join(row)
         print(row[0], "/", nettoyage[5:])
 
-print ("\nIl y a", n, "lignes relatives aux subventions octroyées dans le cadre des différents programmes du Fonds du Canada pour les périodiques.")
+print ("\nIl y a", n, "lignes relatives aux subventions octoyées dans le cadre des différents programmes du Fonds du Canada pour les périodiques.")
